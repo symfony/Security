@@ -1,3 +1,7 @@
+# Important
+
+This package is abandoned and no longer maintained. Please use [Security Bundle](https://github.com/symfony/security-bundle) instead.
+
 Security Component
 ==================
 
